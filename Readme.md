@@ -1,9 +1,10 @@
-
 # Udacity Data Engineering Nanodegree
 
 Projects and resources developed in the  [DEND Nanodegree](https://www.udacity.com/course/data-engineer-nanodegree--nd027)  from Udacity.
 
-## Project 1:  Relational Databases - Data Modeling with PostgreSQL
+## Project 1 - Data Modeling
+
+### Project 1.1:  Relational Databases - Data Modeling with PostgreSQL
 
 Developed a relational database using PostgreSQL to model user activity data for a music streaming app. Skills include:
 
@@ -13,7 +14,7 @@ Developed a relational database using PostgreSQL to model user activity data for
 
 Proficiencies include: Python, PostgreSql, Star Schema, ETL pipelines, Normalization
 
-## Project 2:  NoSQL Databases - Data Modeling with Apache Cassandra
+### Project 1.2:  NoSQL Databases - Data Modeling with Apache Cassandra
 
 Designed a NoSQL database using Apache Cassandra based on the original schema outlined in project one. Skills include:
 
@@ -22,7 +23,7 @@ Designed a NoSQL database using Apache Cassandra based on the original schema ou
 
 Proficiencies used: Python, Apache Cassandra, Denormalization
 
-## Project 3:  Data Warehouse - Amazon Redshift
+## Project 2:  Data Warehouse
 
 Created a database warehouse utilizing Amazon Redshift. Skills include:
 
@@ -32,7 +33,7 @@ Created a database warehouse utilizing Amazon Redshift. Skills include:
 
 Proficiencies used: Python, Amazon Redshift, aws cli, Amazon SDK, SQL, PostgreSQL
 
-## Project 4:  Data Lake - Spark
+## Project 3:  Data Lake
 
 Scaled up the current ETL pipeline by moving the data warehouse to a data lake. Skills include:
 
@@ -42,7 +43,7 @@ Scaled up the current ETL pipeline by moving the data warehouse to a data lake. 
 
 Technologies used: Spark, S3, EMR, Athena, Amazon Glue, Parquet.
 
-## Project 5:  Data Pipelines - Airflow
+## Project 4:  Data Pipelines
 
 Automate the ETL pipeline and creation of data warehouse using Apache Airflow. Skills include:
 
